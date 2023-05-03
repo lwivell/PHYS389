@@ -1,0 +1,10 @@
+import numpy
+import matplotlib
+x= float
+y=float
+
+
+x+y =9
+
+if x > y print("yay")
+
